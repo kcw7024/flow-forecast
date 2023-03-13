@@ -33,3 +33,6 @@ setup(
     install_requires=install_requires,
     extras_require={
         'dev': dev_requirements})
+
+
+print("test")
